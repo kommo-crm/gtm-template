@@ -1,0 +1,5 @@
+homepage: 'https://www.kommo.com'
+documentation: 'https://github.com/kommo-crm/gtm-template/blob/main/README.md'
+versions:
+    - sha: 5a3182f5c2ff42a652bb20bd7aab2b92954534c5
+      changeNotes: Initial release.
